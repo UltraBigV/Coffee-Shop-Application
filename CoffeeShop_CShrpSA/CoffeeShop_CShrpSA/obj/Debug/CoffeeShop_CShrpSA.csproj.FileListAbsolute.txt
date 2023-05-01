@@ -1,0 +1,15 @@
+C:\Users\Vidor\source\repos\CoffeeShop_CShrpSA\CoffeeShop_CShrpSA\bin\Debug\CoffeeShop_CShrpSA.exe.config
+C:\Users\Vidor\source\repos\CoffeeShop_CShrpSA\CoffeeShop_CShrpSA\bin\Debug\CoffeeShop_CShrpSA.exe
+C:\Users\Vidor\source\repos\CoffeeShop_CShrpSA\CoffeeShop_CShrpSA\bin\Debug\CoffeeShop_CShrpSA.pdb
+C:\Users\Vidor\source\repos\CoffeeShop_CShrpSA\CoffeeShop_CShrpSA\obj\Debug\CoffeeShop_CShrpSA.csproj.AssemblyReference.cache
+C:\Users\Vidor\source\repos\CoffeeShop_CShrpSA\CoffeeShop_CShrpSA\obj\Debug\CoffeeShop_CShrpSA.Properties.Resources.resources
+C:\Users\Vidor\source\repos\CoffeeShop_CShrpSA\CoffeeShop_CShrpSA\obj\Debug\CoffeeShop_CShrpSA.csproj.GenerateResource.cache
+C:\Users\Vidor\source\repos\CoffeeShop_CShrpSA\CoffeeShop_CShrpSA\obj\Debug\CoffeeShop_CShrpSA.csproj.CoreCompileInputs.cache
+C:\Users\Vidor\source\repos\CoffeeShop_CShrpSA\CoffeeShop_CShrpSA\obj\Debug\CoffeeShop_CShrpSA.exe
+C:\Users\Vidor\source\repos\CoffeeShop_CShrpSA\CoffeeShop_CShrpSA\obj\Debug\CoffeeShop_CShrpSA.pdb
+C:\Users\Vidor\source\repos\CoffeeShop_CShrpSA\CoffeeShop_CShrpSA\obj\Debug\CoffeeShop_CShrpSA.MainWindow.resources
+C:\Users\Vidor\source\repos\CoffeeShop_CShrpSA\CoffeeShop_CShrpSA\bin\Debug\DotLiquid.dll
+C:\Users\Vidor\source\repos\CoffeeShop_CShrpSA\CoffeeShop_CShrpSA\bin\Debug\DotLiquid.xml
+C:\Users\Vidor\source\repos\CoffeeShop_CShrpSA\CoffeeShop_CShrpSA\bin\Debug\it\DotLiquid.resources.dll
+C:\Users\Vidor\source\repos\CoffeeShop_CShrpSA\CoffeeShop_CShrpSA\obj\Debug\CoffeeShop_CShrpSA.csproj.CopyComplete
+C:\Users\Vidor\source\repos\CoffeeShop_CShrpSA\CoffeeShop_CShrpSA\obj\Debug\CoffeeShop_CShrpSA.Validation.resources
